@@ -1,0 +1,15 @@
+D:\Виктория\Учеба\C#\CSharp\sem1task3\bin\Debug\net6.0\sem1task3.exe
+D:\Виктория\Учеба\C#\CSharp\sem1task3\bin\Debug\net6.0\sem1task3.deps.json
+D:\Виктория\Учеба\C#\CSharp\sem1task3\bin\Debug\net6.0\sem1task3.runtimeconfig.json
+D:\Виктория\Учеба\C#\CSharp\sem1task3\bin\Debug\net6.0\sem1task3.dll
+D:\Виктория\Учеба\C#\CSharp\sem1task3\bin\Debug\net6.0\sem1task3.pdb
+D:\Виктория\Учеба\C#\CSharp\sem1task3\obj\Debug\net6.0\sem1task3.csproj.AssemblyReference.cache
+D:\Виктория\Учеба\C#\CSharp\sem1task3\obj\Debug\net6.0\sem1task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Виктория\Учеба\C#\CSharp\sem1task3\obj\Debug\net6.0\sem1task3.AssemblyInfoInputs.cache
+D:\Виктория\Учеба\C#\CSharp\sem1task3\obj\Debug\net6.0\sem1task3.AssemblyInfo.cs
+D:\Виктория\Учеба\C#\CSharp\sem1task3\obj\Debug\net6.0\sem1task3.csproj.CoreCompileInputs.cache
+D:\Виктория\Учеба\C#\CSharp\sem1task3\obj\Debug\net6.0\sem1task3.dll
+D:\Виктория\Учеба\C#\CSharp\sem1task3\obj\Debug\net6.0\refint\sem1task3.dll
+D:\Виктория\Учеба\C#\CSharp\sem1task3\obj\Debug\net6.0\sem1task3.pdb
+D:\Виктория\Учеба\C#\CSharp\sem1task3\obj\Debug\net6.0\sem1task3.genruntimeconfig.cache
+D:\Виктория\Учеба\C#\CSharp\sem1task3\obj\Debug\net6.0\ref\sem1task3.dll
